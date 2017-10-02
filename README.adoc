@@ -1,0 +1,5 @@
+= MySQL Cluster Configuration
+
+This is a configuration I've used in one of my previous job.
+It needs some love, but it could be a good pointer for configuring a cluster in the future.
+Requires environment variables like `MYSQL_DATADIR` or `MYSQL_BASEDIR` to be set.
